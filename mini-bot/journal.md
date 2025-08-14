@@ -12,6 +12,7 @@ The LiPo will be from 1s to 3s, depending on the proper voltage rating of the co
 
 Inspiration:
 <img width="672" height="567" alt="image" src="https://github.com/user-attachments/assets/5b64b804-234f-4c8c-98a8-c9325d164e72" />
+
 Credit: Alex Hattori at: https://www.alex-hattori.com/blog/recoil-modular-beetleweight-battlebot
 
 
