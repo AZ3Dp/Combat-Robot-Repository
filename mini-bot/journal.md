@@ -10,8 +10,9 @@ Planning Phase
 Currently, I am working on a 3lb combat robot (vertical drisk spinner) named Dr. Piggy. I have learned a lot from that building experience, so I am glad to create another combat robot! This combat robot will strive to use the N20, 100 rpm motors. It will be around 150g-500g, depending on the configuration I run it with. The goal is to have it be a 4wd (or 2wd) with a compact/modular spinner or lifter weapon (via using servos).
 The LiPo will be from 1s to 3s, depending on the proper voltage rating of the components (I'll figure it out along the way)
 
-Inspiration:
-<img width="672" height="567" alt="image" src="https://github.com/user-attachments/assets/5b64b804-234f-4c8c-98a8-c9325d164e72" />
+Inspiration (modular robot):
+
+<img width="500" height="666" alt="image" src="https://github.com/user-attachments/assets/4d8aee8c-af6b-4dad-9c87-c821fd92c718" />
 
 Credit: Alex Hattori at: https://www.alex-hattori.com/blog/recoil-modular-beetleweight-battlebot
 
@@ -31,7 +32,10 @@ Electronics will be minimal: a compact ESC, receiver, and wiring arranged to kee
 I will be using FLYSKY receiver/transmitter, since it is the most-budget friendly (I already have a pair from an in-progress build, and they work great)
 
 <img width="522" height="574" alt="image" src="https://github.com/user-attachments/assets/fd94ad82-3bba-441b-81a7-edc5bf249c27" />
-<img width="522" height="574" alt="image" src="https://github.com/user-attachments/assets/048cab3d-a3d1-43bc-86e1-d6bb8367f37b" />
+<img width="480" height="210" alt="image" src="https://github.com/user-attachments/assets/c01ade00-ab9a-49e5-b375-293696c67c54" />
+
+
+
 
 (credit: Amazon.com product)
 
