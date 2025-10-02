@@ -6,7 +6,7 @@ Commenced On: 9/1/2024
 ---
 
 ---
-**Date: 9-18-25, Time Logged: 3 hrs**
+**Date: 9-28-25, Time Logged: 3 hrs**
 
 <img width="350" height="600" alt="image" src="https://github.com/user-attachments/assets/b9e0b37f-8d42-4a3c-afed-99d40df16586" /><img width="450" height="600" alt="image" src="https://github.com/user-attachments/assets/ccf4c8aa-a42f-49e7-8dcb-1ce7f2443099" />
 
@@ -36,3 +36,11 @@ Then, I did a bit of "housekeeping", brushing up on some geometry:
   - I think I might need to rework the drivetrain - the bearing setup seems a bit unreliable. However, this may be difficult since I am using a tangental drive setup.
   - Fixed drivetrain compliant TPU wheel geometry
 - Split main body into two: I will need to create a connection system (future to-do)
+
+**Date: 10-02-25, Time Logged: 2 hrs**
+<img width="981" height="568" alt="image" src="https://github.com/user-attachments/assets/16cb3596-d1bf-4822-b195-dd5f41988898" />
+<img width="913" height="587" alt="image" src="https://github.com/user-attachments/assets/ab423454-e88d-4428-bbdb-e54a73da2593" />
+
+
+On this session, I worked more on polishing the robot. I have made a pretty significant decision to split the robot's general chassis into two parts. This way, I can have shorter 3D print times, meaning s smaller chance of print failure. To execute this, I added mounting points and connections.
+I also created a "fan-duct" channel. The goal is to mount a fan on the weapon motor, and while it spins the drisk weapon, the fan is also spun. The fan's air will be directed into the electronics, cooling it down.
