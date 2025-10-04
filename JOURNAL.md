@@ -14,8 +14,6 @@ You can view this journal in more detail on **Hack Club Blueprint** [here](https
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjIyLCJwdXIiOiJibG9iX2lkIn19--8ace46abe6ad624c14cd22ce3abe06a8f764b45d/image.png)
 
-As you can see, I am closing in on 200 versions! That means, I edited, improved, and saved that exact file 200 times! This project has been ongoing for almost a year now! However, the log begins here: This is a rundown of what I had accomplished over the past year:
-
 3lb combat robot
 primarily 3D printed
 using off-the-shelf drone components (motors, escs, etc.)
