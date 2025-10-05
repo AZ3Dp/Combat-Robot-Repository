@@ -14,6 +14,8 @@ You can view this journal in more detail on **Hack Club Blueprint** [here](https
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjIyLCJwdXIiOiJibG9iX2lkIn19--8ace46abe6ad624c14cd22ce3abe06a8f764b45d/image.png)
 
+As you can see, I am closing in on 200 versions! That means, I edited, improved, and saved that exact file 200 times! This project has been ongoing for almost a year now! However, the log begins here: This is a rundown of what I had accomplished over the past year:
+
 3lb combat robot
 primarily 3D printed
 using off-the-shelf drone components (motors, escs, etc.)
@@ -36,4 +38,13 @@ I fixed the geometry for the drive belts (from 8mm wide to 6mm wide, reduced int
 I think I might need to rework the drivetrain - the bearing setup seems a bit unreliable. However, this may be difficult since I am using a tangental drive setup.
 Fixed drivetrain compliant TPU wheel geometry
 Split main body into two: I will need to create a connection system (future to-do)  
+
+## 10/5/2025 - Internal Modelling  
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDM4LCJwdXIiOiJibG9iX2lkIn19--d197cae0a66cdf95273252b964ed4755df7711a9/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDM5LCJwdXIiOiJibG9iX2lkIn19--96f28b1dd84b6b70dd500af2ca660095e1b1715d/image.png)
+On this session, I worked more on polishing the robot. I have made a pretty significant decision to split the robot's general chassis into two parts. This way, I can have shorter 3D print times, meaning s smaller chance of print failure. To execute this, I added mounting points and connections. I also created a "fan-duct" channel. The goal is to mount a fan on the weapon motor, and while it spins the drisk weapon, the fan is also spun. The fan's air will be directed into the electronics, cooling it down.
+And a quick sidenote: This project is in the middle of designing phase, and I do have a journal of past progress (I just read the FAQ on the "recently-just-begun" projects)
+[Combat Robot Build Log.pdf](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDQ0LCJwdXIiOiJibG9iX2lkIn19--b837580d523a3a35e598b3ee9b0b7a761dd57b07/Combat%20Robot%20Build%20Log.pdf)
+  
 
