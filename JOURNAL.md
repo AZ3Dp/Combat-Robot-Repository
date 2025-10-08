@@ -48,3 +48,12 @@ And a quick sidenote: This project is in the middle of designing phase, and I do
 [Combat Robot Build Log.pdf](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDQ0LCJwdXIiOiJibG9iX2lkIn19--b837580d523a3a35e598b3ee9b0b7a761dd57b07/Combat%20Robot%20Build%20Log.pdf)
   
 
+## 10/8/2025 - Brainstorming session, novel ideas  
+
+![IMG_0374.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTg4LCJwdXIiOiJibG9iX2lkIn19--964f6f8e281f14a4a5f8b2ed2d44f0e82c0dcc24/IMG_0374.jpeg)
+The goal of my 3lb combat robot is to create a novelty in the sport of combat robotics. That’s why I’m only using off-the-shelf drone parts and making at almost fully 3D printed (the weapon will be metal of course)
+My current design is inspired off of the “meta”. Think Lynx, the beater bar kit, eruption, etc.
+I hope to incorporate bold TPU side panels (and due to the flexibility of 3d printing, pun intended, I’ll make them bulging out, like a pig 🐷)
+This can also help secure (so they don’t fall out) and protect my wheels.
+And of course, the material selection will be smart: PCTG for structural components and TPU for the armor. I wouldn’t want the robot to fold in on itself during a fight ;)  
+
