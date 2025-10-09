@@ -57,3 +57,13 @@ I hope to incorporate bold TPU side panels (and due to the flexibility of 3d pri
 This can also help secure (so they don’t fall out) and protect my wheels.
 And of course, the material selection will be smart: PCTG for structural components and TPU for the armor. I wouldn’t want the robot to fold in on itself during a fight ;)  
 
+## 10/9/2025 - Scrapped CAD (a good thing, though)  
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--425ca4f1748692f86a71c43b85317c8a052c3f20/image.png)
+If you read my previous journals, you can see that I've create quite a large CAD file with my combat robot. Now that I'm trying to go back and edit things, I've realized that I had used terrible CAD practices, making it hard to edit.
+So in this brief work-session, I created a new document and set up the framework for a more organized and intuitive CAD file.
+I've also added parameters:
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--51872975acad96da5c45fb5a2e31344d01f77b1f/image.png)
+I believe the remodelling of the robot will be quick, since I already have reference geometry to go off of.
+  
+
