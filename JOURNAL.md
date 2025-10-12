@@ -39,7 +39,7 @@ I think I might need to rework the drivetrain - the bearing setup seems a bit un
 Fixed drivetrain compliant TPU wheel geometry
 Split main body into two: I will need to create a connection system (future to-do)  
 
-## 10/5/2025 - Internal Modelling  
+## 10/4/2025 - Internal Modelling  
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDM4LCJwdXIiOiJibG9iX2lkIn19--d197cae0a66cdf95273252b964ed4755df7711a9/image.png)
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDM5LCJwdXIiOiJibG9iX2lkIn19--96f28b1dd84b6b70dd500af2ca660095e1b1715d/image.png)
@@ -48,7 +48,7 @@ And a quick sidenote: This project is in the middle of designing phase, and I do
 [Combat Robot Build Log.pdf](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDQ0LCJwdXIiOiJibG9iX2lkIn19--b837580d523a3a35e598b3ee9b0b7a761dd57b07/Combat%20Robot%20Build%20Log.pdf)
   
 
-## 10/8/2025 - Brainstorming session, novel ideas  
+## 10/7/2025 - Brainstorming session, novel ideas  
 
 ![IMG_0374.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTg4LCJwdXIiOiJibG9iX2lkIn19--964f6f8e281f14a4a5f8b2ed2d44f0e82c0dcc24/IMG_0374.jpeg)
 The goal of my 3lb combat robot is to create a novelty in the sport of combat robotics. That’s why I’m only using off-the-shelf drone parts and making at almost fully 3D printed (the weapon will be metal of course)
@@ -57,7 +57,7 @@ I hope to incorporate bold TPU side panels (and due to the flexibility of 3d pri
 This can also help secure (so they don’t fall out) and protect my wheels.
 And of course, the material selection will be smart: PCTG for structural components and TPU for the armor. I wouldn’t want the robot to fold in on itself during a fight ;)  
 
-## 10/9/2025 - Scrapped CAD (a good thing, though)  
+## 10/8/2025 - Scrapped CAD (a good thing, though)  
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--425ca4f1748692f86a71c43b85317c8a052c3f20/image.png)
 If you read my previous journals, you can see that I've create quite a large CAD file with my combat robot. Now that I'm trying to go back and edit things, I've realized that I had used terrible CAD practices, making it hard to edit.
@@ -66,4 +66,13 @@ I've also added parameters:
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--51872975acad96da5c45fb5a2e31344d01f77b1f/image.png)
 I believe the remodelling of the robot will be quick, since I already have reference geometry to go off of.
   
+
+## 10/11/2025 - Redesigning is not fun :(  
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTcyNSwicHVyIjoiYmxvYl9pZCJ9fQ==--3cf4bc2ec6fd33965c70e7c3d83ae54cbd01a6be/image.png)
+Just some work on remodelling the robot using better CAD practices (so I'm essentially starting from scratch, but with a reference)
+THIS IS WHY WE USE GOOD CAD PRACTICES WHEN WE MODEL FOR THE FIRST TIME!!!
+But I guess the robot is taking shape a lot faster
+And of course I'll implement my new design features (which is why I started the redesign in the first place; I couldn't edit the original file without breaking it) like more armor and a stronger drive train.
+Wish me luck!  
 
