@@ -76,3 +76,16 @@ But I guess the robot is taking shape a lot faster
 And of course I'll implement my new design features (which is why I started the redesign in the first place; I couldn't edit the original file without breaking it) like more armor and a stronger drive train.
 Wish me luck!  
 
+## 10/18/2025 - One Step Backward, 10 Steps Forward  
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzE0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--1ab63b793159ec57cf6282309fa41ac32a7ba631/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzE1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--d69a7368c49b18796efa11ba954d4e2ddc31c43b/image.png)
+As the title suggests, I am currently "redesigning" the model from scratch to improve the modelling process (I know, sounds unintuitive).
+New things: (you can look at a couple journals back to compare) 
+
+- Back armor, will be made out of TPU
+- Side armor, will be made out of TPU
+The armor will give the combat robot a "bulkier" appearance, and it will enable shock absorption (preventing severe damage on the robot's wheels)
+CAD approach:
+You can see that I'm using more components that are externally referenced. That means, not all geometry was created internally in the "Assembly" file. This will enhance organization and improve the timeline editing experience.  
+
