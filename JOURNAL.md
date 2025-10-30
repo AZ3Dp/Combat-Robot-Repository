@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **3lb Combat Robot**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/97).
-
-
 ## 10/3/2025 - 3D Modelling of Combat Robot  
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjIyLCJwdXIiOiJibG9iX2lkIn19--8ace46abe6ad624c14cd22ce3abe06a8f764b45d/image.png)
@@ -88,4 +84,12 @@ New things: (you can look at a couple journals back to compare)
 The armor will give the combat robot a "bulkier" appearance, and it will enable shock absorption (preventing severe damage on the robot's wheels)
 CAD approach:
 You can see that I'm using more components that are externally referenced. That means, not all geometry was created internally in the "Assembly" file. This will enhance organization and improve the timeline editing experience.  
+
+## 10/30/2025 - Locking in on OPTIMIZATION and improving the combat robot  
+
+![Screenshot 2025-10-30 at 2.47.17 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njc4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--1c79859622d3768a6a774323c17b4fa249dc6ea9/Screenshot%202025-10-30%20at%202.47.17%E2%80%AFPM.png)![Screenshot 2025-10-30 at 2.53.40 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njc4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--15c614256d76d7a4b4a68dd7646fac5b6ce36fd1/Screenshot%202025-10-30%20at%202.53.40%E2%80%AFPM.png)![Screenshot 2025-10-30 at 2.56.19 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njc4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--5b0afa0fc50956f2dd4457c20d0993746f6574f4/Screenshot%202025-10-30%20at%202.56.19%E2%80%AFPM.png)
+
+So this log will include some tips for building combat robots as well :)
+Today, I worked on the new version of Dr. Piggy. Although, Dr. Piggy is partaking in a complete redesign, I am NOT going to be simply remodeling the exact same geometry from before. I will make improvements and modifications. Today, I primarily worked on the drivetrain. Instead of having the brushless motor to be hard-mounted with the side panels (directly screwed in). If the robot gets hit, the motor may suffer intense damage. I have designed a "brick"-looking object so that the motor will now be soft mounted (clamped down). I don't think it'll make too much of a difference in terms of durability since I'm running a tangental drive setup (not direct drive), but this enables me to secure the motor better, as well as reducing the "width" of the drivetrain (drive motors are now recessed in the wall)
+I also modelled in the fasteners, which I have a terrible habit of not modeling in :)  
 
