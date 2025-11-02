@@ -93,3 +93,9 @@ So this log will include some tips for building combat robots as well :)
 Today, I worked on the new version of Dr. Piggy. Although, Dr. Piggy is partaking in a complete redesign, I am NOT going to be simply remodeling the exact same geometry from before. I will make improvements and modifications. Today, I primarily worked on the drivetrain. Instead of having the brushless motor to be hard-mounted with the side panels (directly screwed in). If the robot gets hit, the motor may suffer intense damage. I have designed a "brick"-looking object so that the motor will now be soft mounted (clamped down). I don't think it'll make too much of a difference in terms of durability since I'm running a tangental drive setup (not direct drive), but this enables me to secure the motor better, as well as reducing the "width" of the drivetrain (drive motors are now recessed in the wall)
 I also modelled in the fasteners, which I have a terrible habit of not modeling in :)  
 
+## 11/1/2025 - Added Side Armor for Old Design  
+
+![Screenshot 2025-11-01 at 8.39.23 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzYwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--48be3b1c5d5508c5cebb483d1609171e1ccc5fd3/Screenshot%202025-11-01%20at%208.39.23%E2%80%AFPM.png)
+I just realized that if I take my time and remodel the entire thing from scratch, it'll take another 2 and a half years for me to finish this one project. So, I am now editing my old model (don't worry, I'll add the optimizations) and inserting key components. 
+  
+
