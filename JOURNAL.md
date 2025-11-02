@@ -99,3 +99,8 @@ I also modelled in the fasteners, which I have a terrible habit of not modeling 
 I just realized that if I take my time and remodel the entire thing from scratch, it'll take another 2 and a half years for me to finish this one project. So, I am now editing my old model (don't worry, I'll add the optimizations) and inserting key components. 
   
 
+## 11/2/2025 - Added Mounting for TPU Side Armor  
+
+![Screenshot 2025-11-02 at 6.32.28 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzkwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--e5199522d4d6c8911b837f7786c9c73a2bf123ba/Screenshot%202025-11-02%20at%206.32.28%E2%80%AFPM.png)
+Today, I spent a crap ton of time to tidy things up and add mounting holes for the TPU side armor. It uses various methods like standoffs, as well as a dovetail joint. I think the robot is ready to ship!!!  
+
