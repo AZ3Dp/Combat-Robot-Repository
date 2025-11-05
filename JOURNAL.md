@@ -104,3 +104,8 @@ I just realized that if I take my time and remodel the entire thing from scratch
 ![Screenshot 2025-11-02 at 6.32.28 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzkwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--e5199522d4d6c8911b837f7786c9c73a2bf123ba/Screenshot%202025-11-02%20at%206.32.28%E2%80%AFPM.png)
 Today, I spent a crap ton of time to tidy things up and add mounting holes for the TPU side armor. It uses various methods like standoffs, as well as a dovetail joint. I think the robot is ready to ship!!!  
 
+## 11/5/2025 - Improved Printability  
+
+![Screenshot 2025-11-05 at 11.27.34 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODY3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--0c44e31041f0749e931a462ef8b1628aeb817c00/Screenshot%202025-11-05%20at%2011.27.34%E2%80%AFAM.png)
+I want to reduce or completely eliminate the use of supports in the process of printing my model, but I had some impossible circular overhangs. I used a common strategy of using rectangular overhangs (that are doable), and them printing the circular geometry on top of that. with my specific part, that technique needs to be applied twice.  
+
