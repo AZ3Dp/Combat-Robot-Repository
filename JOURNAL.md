@@ -107,5 +107,5 @@ Today, I spent a crap ton of time to tidy things up and add mounting holes for t
 ## 11/5/2025 - Improved Printability  
 
 ![Screenshot 2025-11-05 at 11.27.34 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODY3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--0c44e31041f0749e931a462ef8b1628aeb817c00/Screenshot%202025-11-05%20at%2011.27.34%E2%80%AFAM.png)
-I want to reduce or completely eliminate the use of supports in the process of printing my model, but I had some impossible circular overhangs. I used a common strategy of using rectangular overhangs (that are doable), and them printing the circular geometry on top of that. with my specific part, that technique needs to be applied twice.  
+I want to reduce or completely eliminate the use of supports in the process of printing my model, but I had some impossible circular overhangs. I used a common strategy of using rectangular overhangs (that are doable), and them printing the circular geometry on top of that. with my specific part, that technique needs to be applied twice. This technique was found in a Youtube video tutorial, so I had fun learning new things!  
 
